@@ -4,7 +4,8 @@ Indian Diabetes prediction
 # File Guide
 diabetics_ml.iypnb: file for the project
 
-Clustering.
+
+# Clustering.
 
 This is the use of unsupervised machine Learning algorithm  in predicting the likelyhood of diabetes in a patient. 
 
